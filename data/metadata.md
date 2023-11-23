@@ -1,6 +1,6 @@
 # How to Download CTx-Cov Dataset
 
-CTx-Cov is accessible on [Google Drive]([insert_your_google_drive_link_here](https://drive.google.com/drive/folders/1ml0tqkUS3hi_4nNwNaaDVGj5QdHrYyM8?usp=sharing).
+CTx-Cov is accessible on [Google Drive](https://drive.google.com/drive/folders/1ml0tqkUS3hi_4nNwNaaDVGj5QdHrYyM8?usp=sharing).
 
 ## Segmentation Dataset
 
