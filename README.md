@@ -20,3 +20,15 @@ The classification folder includes datasets for classification in .npy format, a
 
 Please cite CTx-Cov if you use the CTx-Cov dataset or this repository
 
+```python
+@INPROCEEDINGS{10322985,
+  author={Elbouknify, Ismail and Bouhoute, Afaf and Fardousse, Khalid and Berrada, Ismail and Badri, Abdelmajid},
+  booktitle={2023 10th International Conference on Wireless Networks and Mobile Communications (WINCOM)}, 
+  title={CT-xCOV: a CT-scan based Explainable Framework for COVid-19 diagnosis}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/WINCOM59760.2023.10322985}}
+
+```
